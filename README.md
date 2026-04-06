@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://my-focusflow.netlify.app/">
-    <img src="Mockup focusflow.png" width="800" alt="FocusFlow Mockup">
+    <img src="Moc focusflow.png" width="800" alt="FocusFlow Mockup">
   </a>
 </p>
 
