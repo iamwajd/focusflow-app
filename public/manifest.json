@@ -1,0 +1,12 @@
+{
+  "name": "FocusFlow",
+  "short_name": "FocusFlow",
+  "description": "Elegant task management meets deep focus",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#e9d5ff",
+  "theme_color": "#a78bfa",
+  "icons": [
+    { "src": "/vite.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
