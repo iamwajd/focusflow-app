@@ -1,5 +1,14 @@
 # 🌟 FocusFlow — Pastel Dreams
 
+---
+
+<p align="center">
+  <a href="https://my-focusflow.netlify.app/">
+    <img src="Mockup focusflow.png" width="800" alt="FocusFlow Mockup">
+  </a>
+</p>
+
+
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
