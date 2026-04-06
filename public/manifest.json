@@ -1,0 +1,40 @@
+{
+  "name": "FocusFlow - Productivity & Task Management",
+  "short_name": "FocusFlow",
+  "description": "A minimalist productivity tool designed for seamless task management and focused work sessions.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#FDF2F2",
+  "theme_color": "#FDF2F2",
+  "categories": ["productivity"],
+  "icons": [
+    {
+      "src": "/FocusFlow.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/FocusFlow.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/FocusFlow.png",
+      "sizes": "540x720",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/FocusFlow.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ]
+}
